@@ -2,7 +2,7 @@
 Hunter McVey Portfolio
 
 ## Blend Modes
-[![Blend Mode 1](http://img.youtube.com/vi/Kw4n4pYlB58/0.jpg)](http://www.youtube.com/watch?v=YKw4n4pYlB58)
+[![Blend Mode 1](http://img.youtube.com/vi/Kw4n4pYlB58/0.jpg)](http://www.youtube.com/watch?v=Kw4n4pYlB58)
 
 [![Blend Mode 2](http://img.youtube.com/vi/bJa-j2Llkes/0.jpg)](http://www.youtube.com/watch?v=bJa-j2Llkes)
 
